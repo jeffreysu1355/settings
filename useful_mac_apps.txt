@@ -1,0 +1,2 @@
+UnnaturalScrollWheels - Maintain regular scroll wheel like in windows, but keep inverted scrolling on trackpad
+SensibleSideButtons - Aside from a Logitech mice, side buttons don't work. This also fixes the mouse wheel fron/back on Logitech Mice e.g. M325S.
