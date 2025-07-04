@@ -1,2 +1,6 @@
 UnnaturalScrollWheels - Maintain regular scroll wheel like in windows, but keep inverted scrolling on trackpad
 SensibleSideButtons - Aside from a Logitech mice, side buttons don't work. This also fixes the mouse wheel fron/back on Logitech Mice e.g. M325S.
+Flux - Changes display color temperature depending on time of day
+Rectangle - Get Windows like snapping, use ctrl + option and arrow keys for sides. Enter for full screen.
+Hidden Bar - Can minimize toolbar. https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12
+Better Display - can change resolution when display doesn't allow it. Using Dell 34in display (3440x1440), text was too small, modified to 2048x858. https://github.com/waydabber/BetterDisplay.
