@@ -1,0 +1,2 @@
+Followed this guide: https://github.com/stevenilsen123/mac-keyboard-behavior-in-windows?tab=readme-ov-file
+The other MacKeyboard.ahk has some other screenshot functionality.
