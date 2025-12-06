@@ -9,3 +9,6 @@ Favorite Mice:
 Microsoft Wireless Mobile Mouse 4000 - no longer made
 Logitech MX Anywhere 3S
 Logitech M325S
+
+complex_modifications_karabiner_elements.json
+File remaps the opt + movement cmd to ctrl + movement cmd like in windows.
